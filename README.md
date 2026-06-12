@@ -197,7 +197,8 @@ The project is the centrepiece of the course. Working in groups, students apply 
 
 ### Course Notebooks
 
-- 📓 [PasdPublicNB GitHub Repo](https://github.com/pasdptt/PasdPublicNB) — all public notebooks for this course
+- 📓 [Pasd-BigData GitHub Repo](https://github.com/pasdptt/public_teaching_bdandspark) — public repo for this course
+- 📓 [PasdPublicNB GitHub Repo](https://github.com/pasdptt/PasdPublicNB) — my other public repo
 
 ### External References
 
@@ -224,4 +225,4 @@ The project is the centrepiece of the course. Working in groups, students apply 
 | **Instructor** | Pasd Putthapipat |
 | **Email** | [Pasd.Putthapipat@gmail.com](mailto:Pasd.Putthapipat@gmail.com) |
 | **Office Hours** | By appointment |
-| **Course Site** | https://sites.google.com/view/stat4bigdata/ |
+| **Course Site** | TBD |
