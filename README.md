@@ -158,8 +158,8 @@ The project is the centrepiece of the course. Working in groups, students apply 
 
 | Date | Milestone |
 |------|-----------|
-| Wed 13 Aug 2025 | Group declaration & dataset selection |
-| Wed 27 Aug 2025 | In-class proposal presentation |
+| TBD | Group declaration & dataset selection |
+| TBD (Tentatively - before midterm exam) | In-class proposal presentation |
 | TBC | Final presentation |
 | TBC | Submit report + notebook |
 
