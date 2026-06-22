@@ -62,9 +62,9 @@ You don't need prior big-data experience, but you should be comfortable with:
 
 The easiest way to run PySpark — no local install needed.
 
-1. Sign up at <https://community.cloud.databricks.com/>
-2. Create a cluster (Runtime ≥ 12.x, Scala 2.12)
-3. Import notebooks from the [public repo](https://github.com/pasdptt/PasdPublicNB)
+1. Sign up at <https://www.databricks.com/learn/free-edition>
+2. Create an account.
+3. Import notebooks.
 
 ### 2 · Google Colab (alternative)
 
