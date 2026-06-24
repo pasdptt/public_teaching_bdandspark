@@ -72,15 +72,23 @@ Run Spark inside a free Colab notebook - no local install needed also:
 
 ```python
 # Install Java & PySpark in Colab
-!apt-get install -y openjdk-11-jdk-headless -qq
-!pip install pyspark --quiet
+!apt-get update
+!pip install pyspark
+!pip install findspark
 
 import os
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-11-openjdk-amd64"
 
+from pyspark import SparkContext
 from pyspark.sql import SparkSession
-spark = SparkSession.builder.master("local[*]").appName("Colab").getOrCreate()
-spark
+from pyspark.sql import *
+
+SPARK_URL = "local[*]"
+
+spark = SparkSession.builder.master(SPARK_URL).getOrCreate()
+
+import pyspark
+print(pyspark.__version__)
 ```
 
 ### 3 · Local Setup (optional)
