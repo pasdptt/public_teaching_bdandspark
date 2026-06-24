@@ -1,7 +1,7 @@
 # Lesson 0 · Introduction to Big Data
 
 > **Week 1** | Lecture  
-> Slides: [Lecture 0](https://docs.google.com/presentation/d/1LA_PkymDFetWhc33ssI0E4dhgFPqdcXMSxVmJRvsTZE/edit?usp=sharing)
+> Slides: [Lecture 0](https://docs.google.com/presentation/d/1K5_Vc7LTQNHWLIXneZJZ3dNpyvnSyLxE/edit?slide=id.p1#slide=id.p1)
 
 ---
 
