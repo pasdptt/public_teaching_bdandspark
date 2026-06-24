@@ -58,7 +58,7 @@ You don't need prior big-data experience, but you should be comfortable with:
 
 ## Tools & Environment Setup
 
-### 1 · Databricks Community Edition (primary)
+### 1 · Databricks (Free) Edition (primary)
 
 The easiest way to run PySpark — no local install needed.
 
@@ -66,9 +66,9 @@ The easiest way to run PySpark — no local install needed.
 2. Create an account.
 3. Import notebooks.
 
-### 2 · Google Colab (alternative)
+### 2 · Google Colab (2nd option)
 
-Run Spark inside a free Colab notebook:
+Run Spark inside a free Colab notebook - no local install needed also:
 
 ```python
 # Install Java & PySpark in Colab
