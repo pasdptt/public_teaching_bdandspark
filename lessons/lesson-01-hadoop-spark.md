@@ -1,7 +1,7 @@
 # Lesson 1 · Hadoop & Spark Ecosystem
 
 > **Week 2** | Lecture  
-> Slides: [Lecture 1](https://docs.google.com/presentation/d/1H7AhGWjTld6n7qznNB6vw9xIrcGAtYFsVyVwfwjESxA/edit?usp=sharing) · Notebook: [Python + Spark in Colab](https://github.com/pasdptt/PasdPublicNB/blob/master/Python_Example.ipynb)
+> Slides: [Lecture 1](https://docs.google.com/presentation/d/1QoCqEJtFgd8EUvfdYKV942SXDYLfd50E/edit?usp=sharing&ouid=110736892543563383644&rtpof=true&sd=true) · Notebook: [Python + Spark](https://github.com/pasdptt/public_teaching_bdandspark/blob/main/Lecture0_QuickReview_Python.ipynb)
 
 ---
 
