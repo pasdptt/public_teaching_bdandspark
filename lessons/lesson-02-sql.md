@@ -1,7 +1,7 @@
 # Lesson 2 · SQL & DataFrame Querying
 
 > **Week 3–4** | Lecture + Lab  
-> Slides: [Lecture 2](https://docs.google.com/presentation/d/1jplaSRbpJCYkUsDI7l4ZApvWhJRCwp4qi407lZllDhc/edit?usp=sharing) · [W3Schools SQL Try-It](https://www.w3schools.com/sql/trymysql.asp)
+> Slides: [Lecture 2](https://docs.google.com/presentation/d/1d_XiqfFbBg2QsOpnEH8AwjLWqKaz1z2R/edit?slide=id.p1#slide=id.p1) · [W3Schools SQL Try-It](https://www.w3schools.com/sql/trymysql.asp)
 
 ---
 
