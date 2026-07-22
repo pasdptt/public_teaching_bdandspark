@@ -1,7 +1,7 @@
 # Lesson 3 · Spark DataFrame Programming
 
 > **Week 4** | Lab  
-> Slides: [Lecture 3](https://docs.google.com/presentation/d/1rpq2Rmok5lwCpKeEJ1FduUJWGXY1izro-SuMY8R8W6I/edit?usp=sharing) · Notebook: [Intro to Spark DataFrame](https://github.com/pasdptt/PasdPublicNB/blob/master/Lecture3_%20Intro2Spark_Dataframe.ipynb)
+> Slides: [Lecture 3](https://docs.google.com/presentation/d/1d_XiqfFbBg2QsOpnEH8AwjLWqKaz1z2R/edit?slide=id.p20#slide=id.p20) · Notebook: [Intro to Spark DataFrame](https://github.com/pasdptt/public_teaching_bdandspark/blob/main/Lecture3_%20Intro2Spark_Dataframe.ipynb)
 
 ---
 
