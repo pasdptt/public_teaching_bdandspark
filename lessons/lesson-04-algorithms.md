@@ -1,7 +1,7 @@
 # Lesson 4 · Algorithms for Big Data
 
 > **Week 6** | Lecture + Lab  
-> Slides: [Lecture 4](https://docs.google.com/presentation/d/1T8ALERFxHpIHQwOYd2ybBnbHjXWJDWH44LXfGUMpYh4/edit?usp=sharing)
+> Slides: [Lecture 4](https://docs.google.com/presentation/d/1wMcTEHku4wC9vV-icwkSXXAiD2MCEwym/edit?usp=sharing&ouid=110736892543563383644&rtpof=true&sd=true)
 
 ---
 
