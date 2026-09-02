@@ -1,7 +1,7 @@
 # Lesson 5 · Mathematics & Statistics for Big Data
 
 > **Week 5** | Lecture + Lab  
-> Slides: [Lecture 5](https://docs.google.com/presentation/d/1B9yaTQZuA0n6acvNI_Vs2K5aLKTeHl9H3D-MQzSpNoQ/edit?usp=sharing)
+> Slides: [Lecture 5](https://docs.google.com/presentation/d/1l4sPGD26xvJiEpZCLejTsQYblUo4Ap_E/edit?usp=sharing&ouid=110736892543563383644&rtpof=true&sd=true)
 
 ---
 
