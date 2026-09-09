@@ -1,8 +1,8 @@
 # Lesson 6 · ML for Big Data — PCA, Feature Engineering & Pipelines
 
 > **Week 6–7** | Lecture + Lab  
-> Slides: [Lecture 6](https://docs.google.com/presentation/d/1_xyojlGvXhHEUmDVAZgCwQfhm-JZ2n7HxQwQ2I0cNME/edit?usp=sharing)  
-> Notebooks: [PCA on Spark](https://github.com/pasdptt/PasdPublicNB/blob/master/Lecture5_%20PCA_on_spark.ipynb) · [Testing & Sampling](https://github.com/pasdptt/PasdPublicNB/blob/master/Lecture6_%20Testing_%26_Sampling_on%20Spark.ipynb)
+> Slides: [Lecture 6](https://docs.google.com/presentation/d/1d_5AeIDr342xLEo1-SxDUnvqI3aOobOW/edit?usp=sharing&ouid=110736892543563383644&rtpof=true&sd=true)  
+> Notebooks: [Testing & Sampling](https://github.com/pasdptt/PasdPublicNB/blob/master/Lecture6_%20Testing_%26_Sampling_on%20Spark.ipynb)
 
 ---
 
