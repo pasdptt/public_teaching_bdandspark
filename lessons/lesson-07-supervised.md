@@ -1,7 +1,7 @@
 # Lesson 7 · Supervised Learning on Spark
 
 > **Week 10–11** | Lecture + Lab  
-> Slides: [Lecture 7](https://docs.google.com/presentation/d/1zoMutn4idkDkuGurtgH4LizOqRZe8R7J5euLTv2hO1U/edit?usp=sharing)  
+> Slides: [Lecture 7](https://docs.google.com/presentation/d/11jpsmnsLGb5ATDE8Ot5EpanP3RxkdTNe/edit?usp=sharing&ouid=110736892543563383644&rtpof=true&sd=true)  
 > Notebook: [Supervised Modeling on Spark](https://github.com/pasdptt/PasdPublicNB/blob/master/Lecture7_%20Modeling%20on%20Spark_%20supervised%20learning.ipynb)
 
 ---
