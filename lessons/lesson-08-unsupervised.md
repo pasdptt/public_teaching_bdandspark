@@ -1,7 +1,7 @@
 # Lesson 8 · Unsupervised Learning on Spark
 
 > **Week 11** | Lecture + Lab  
-> Slides: [Lecture 8](https://docs.google.com/presentation/d/1ht0Bv9xpE5Ek_VCoo0u9AiGjumT2yJzbXCbyiLV1r4U/edit?usp=sharing)  
+> Slides: [Lecture 8](https://docs.google.com/presentation/d/1RzZddyNLn27bWrq4yyYciFqRiqz1IgY9/edit?usp=sharing&ouid=110736892543563383644&rtpof=true&sd=true)  
 > Notebook: [Unsupervised Modeling on Spark](https://github.com/pasdptt/PasdPublicNB/blob/master/Lecture8_%20Modeling%20on%20spark%20-%20unsupervised%20learning.ipynb)
 
 ---
